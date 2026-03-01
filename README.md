@@ -1,2 +1,6 @@
 # Einkaufsliste
 Zutaten
+Mehl
+Zucker
+Eier
+Backpulver
